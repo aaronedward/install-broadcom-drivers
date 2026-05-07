@@ -1,6 +1,6 @@
 # BCM4360 WiFi Driver Installation Script
 
-This script automates the installation of the BCM4360 driver on Ubuntu 26.04 systems. 
+This script automates the installation of the Broadcom BCM4360 driver on Ubuntu 26.04 systems. 
 
 ## Prerequisites
 
