@@ -19,5 +19,5 @@ This script automates the installation of the Broadcom BCM4360 driver on Ubuntu 
 
 ## Compatibility
 
-- Intended for use on an A1466 MacBook Air running Ubuntu 26.04 with Kernel 7.0+
+- Intended for use on an A1466 MacBook Air 7,2 (2015 - 2017) running Ubuntu 26.04 with Kernel 7.0+
 - May work on other Debian-based distributions
